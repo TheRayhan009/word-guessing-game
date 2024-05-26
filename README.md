@@ -36,12 +36,13 @@ Clone this repository to your local machine.
 Navigate to the directory containing the script.
 Run the script using Python:```python word_guessing_game.py```
 
-# Game Rules
-1.You will be given a word with some letters replaced by underscores. \n
-2.You have a limited number of chances to guess the word.
-3.If you guess the word correctly within the given chances, you win and your score increases.
-4.If you fail to guess the word, the game ends and the correct word is revealed.
-5.You can choose to play again or exit the game.
+## Game Rules
+1. You will be given a word with some letters replaced by underscores.
+2. You have a limited number of chances to guess the word.
+3. If you guess the word correctly within the given chances, you win and your score increases.
+4. If you fail to guess the word, the game ends and the correct word is revealed.
+5. You can choose to play again or exit the game.
+
 
 # Customization
 You can customize the game by modifying the script. For example, you can change the range of random words, the number of chances, or the way the words are masked.
