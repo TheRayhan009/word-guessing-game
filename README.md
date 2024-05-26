@@ -10,8 +10,6 @@ Welcome to the Word Guessing Game 2.0! This is a fun and interactive game where 
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Customization](#customization)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -39,7 +37,7 @@ Navigate to the directory containing the script.
 Run the script using Python:```python word_guessing_game.py```
 
 # Game Rules
-1.You will be given a word with some letters replaced by underscores.
+1.You will be given a word with some letters replaced by underscores. \n
 2.You have a limited number of chances to guess the word.
 3.If you guess the word correctly within the given chances, you win and your score increases.
 4.If you fail to guess the word, the game ends and the correct word is revealed.
